@@ -7,4 +7,7 @@ target 'FlickrSlide' do
 
   # Pods for FlickrSlide
 
+  pod 'RxSwift', '~> 4.0'
+  pod 'RxCocoa', '~> 4.0'
+
 end
