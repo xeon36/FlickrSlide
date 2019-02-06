@@ -9,5 +9,6 @@ target 'FlickrSlide' do
 
   pod 'RxSwift', '~> 4.0'
   pod 'RxCocoa', '~> 4.0'
+  pod 'SwiftyXML', '~> 1.7.0'
 
 end
